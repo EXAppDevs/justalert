@@ -28,4 +28,4 @@ Această politică este valabilă începând cu 2021-08-18.
 
 Dacă aveți întrebări sau sugestii cu privire la Politica noastră de confidențialitate, nu ezitați să ne contactați la:
 
-![](assets/20210819_141334_ex.png)
+![](assets/20210819_153147_ex.png)
