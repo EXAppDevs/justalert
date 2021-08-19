@@ -6,17 +6,17 @@ Aplicația **Just:Alert** permite accesul instant la dosarele aferente proceselo
 
 Cu **Just:Alert**, din câteva clickuri, oricine poate căuta, consulta, salva ori monitoriza un dosar de instanță.
 
-![](assets/20210819_152011_find_party.png)
+![](assets/20210819_153818_find_party small.png)
 
 **Just:Alert** este o aplicație care permite gestionarea dosarelor pe telefon la fel de ușor ca modul de gestionare a emailurilor într-o aplicație de tip client email.
 
-![](assets/20210819_152022_find_results.png)
+![](assets/20210819_153824_find_results small.png)
 
 **Toate căutările, salvările și alertele de modificare sunt generate și stocate exclusiv pe telefonul utilizatorului, asigurându-se confidențialitatea utilizării. Nici dezvoltatorul aplicației, nici vreun terț nu au acces la căutările, salvările ori alertele unui utilizator.**
 
 De acum, accesarea pe telefon a dosarelor de instanță nu mai trebuie să fie o experiență frustrantă, rezervată doar experților.
 
-![](assets/20210819_152038_case_details.png)
+![](assets/20210819_153908_case_details small.png)
 
 Fie că ești interesat de stadiul unui dosar în care ești parte, fie că vrei să fii la curent cu evoluția dosarelor unor clienți ori parteneri de afaceri, ori te interesează detaliile unui dosar de notorietate pentru opinia publică, cu **Just:Alert** poți vedea imediat informația relevantă și poți primi automat notificări/alerte prompte despre cele mai recente actualizări ale procedurilor judiciare în derulare.
 
