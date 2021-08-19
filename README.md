@@ -1,0 +1,1 @@
+E.X.AppDevs oferă servicii de dezvoltare de aplicații mobile/web. Echipa noastră folosește platforme cunoscute și instrumentede ultimă oră pentru dezvoltarea de software pentru aplicații web și platforme mobile iOS și Android.
